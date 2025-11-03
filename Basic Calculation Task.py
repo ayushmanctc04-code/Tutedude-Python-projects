@@ -11,4 +11,5 @@ print(f"Subtraction: {subtraction}")
 print(f"Multiplication: {multiplication}")
 print(f"Division: {division}")
 
-input("\nPress Enter to exit...")
+input("Press Enter to exit...")
+
